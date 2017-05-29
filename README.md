@@ -1,3 +1,2 @@
 # NaiveBayesMethod
-COMP307 Assignment 3
-THe Naive Bayes Method is implmented and evaluates the program on teh spam data set.
+The Naive Bayes Method is implmented and evaluates the program on the spam data set.
